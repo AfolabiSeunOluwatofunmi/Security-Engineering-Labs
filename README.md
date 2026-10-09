@@ -9,7 +9,7 @@ Welcome to my professional security engineering portfolio. This repository docum
 | Lab Module | Domain / Focus | Key Tools & Tech | Status |
 | :--- | :--- | :--- | :--- |
 | **[01. Nmap Network Discovery](./nmap-network-discovery/)** | Network Reconnaissance & Port Enumeration | Kali Linux, Nmap, VirtualBox | ✅ Completed |
-| **[02. Vulnerability Assessment *(Coming Soon)*](#)** | Service Enumeration & Exploit Analysis | Metasploitable 2, Searchsploit | 🔄 In Progress |
+| **[02. Vulnerability Assessment](./vulnerability-assessment/)** | Service Enumeration & Exploit Analysis | Metasploitable 2, Searchsploit | ✅ Completed |
 | **[03. Network Defense & Traffic Analysis *(Planned)*](#)** | Packet Inspection & Intrusion Detection | Wireshark, Snort | ⏳ Queued |
 
 ---
