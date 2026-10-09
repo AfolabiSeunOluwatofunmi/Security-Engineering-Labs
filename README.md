@@ -10,7 +10,7 @@ Welcome to my professional security engineering portfolio. This repository docum
 | :--- | :--- | :--- | :--- |
 | **[01. Nmap Network Discovery](./nmap-network-discovery/)** | Network Reconnaissance & Port Enumeration | Kali Linux, Nmap, VirtualBox | ✅ Completed |
 | **[02. Vulnerability Assessment](./vulnerability-assessment/)** | Service Enumeration & Exploit Analysis | Metasploitable 2, Searchsploit | ✅ Completed |
-| **[03. Network Defense & Traffic Analysis *(Planned)*](#)** | Packet Inspection & Intrusion Detection | Wireshark, Snort | ⏳ Queued |
+| **[03. TryHackMe - Offensive Security Intro](./tryhackme-offensive-security-intro/)** | Web Application Assessment & Authorization Testing | TryHackMe, Web Security | ✅ Completed |
 
 ---
 
